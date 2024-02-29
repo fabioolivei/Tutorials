@@ -223,7 +223,7 @@ Evaluation
 
 <div align="center">
 
-![Descrição do GIF](https://assets.zyrosite.com/Y4L8BJjE2oia5PMq/evoluassapso_covid-dOqN9VqG4EtQneaR.gif)
+![Descrição do GIF](https://github.com/fabioolivei/Fabio_Olivei_Data_Sciense/blob/main/evolu%C3%A7%C3%A3o_covid.gif)
 
 </div>
 
