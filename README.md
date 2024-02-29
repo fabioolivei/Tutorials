@@ -1,5 +1,5 @@
 # Portfolio
-My Data Science and Analytics Portfolio
+
 <img src="https://github.com/fabioolivei/Fabio_Olivei_Data_Sciense/blob/main/FABIO-OLIVEI-%20Banner.png" alt="👋 Hi there! I'm Fabio Olivei" title="👋 Hi there! I'm Fabio Olivei"/>
 
 <div align="center">
@@ -13,14 +13,15 @@ My Data Science and Analytics Portfolio
 
 ---
 
-# Projects:
+# 💡 Projects:
 
  - 🔎[My Portfolio](https://fabioolivei.com/)
  - 💻[Explore my data science projects on GitHub.](https://github.com/fabioolivei/Portfolio/edit/main/README.md)
  - 📚[My articles: I regularly write articles on medium](https://medium.com/@fabioolivei)
- 
 
+  
 ## **Machine Learning**
+  
 
 
 * ### [**Diabetes Alert: A Machine Learning-Based App:**](https://shre.ink/rvNt)
