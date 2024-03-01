@@ -74,7 +74,7 @@ For this project, the model was deployed using a Gradio app hosted on Hugging Fa
 
 
 
-* ### [**YouTube Insights: Uma Análise dos Canais Mais Bem-Sucedidos da Plataforma:**](https://github.com/fabioolivei/Fabio_Olivei_Data_Sciense/blob/main/YouTube_Insights_(%20EDA%20)/notebooks/YouTube_Insights_Uma_An%C3%A1lise_dos_Canais_Mais_Bem_Sucedidos_da_Plataforma.ipynb)
+* ### [**YouTube Insights ( EDA ):**](https://github.com/fabioolivei/Fabio_Olivei_Data_Sciense/blob/main/YouTube_Insights_(%20EDA%20)/notebooks/YouTube_Insights_Uma_An%C3%A1lise_dos_Canais_Mais_Bem_Sucedidos_da_Plataforma.ipynb)
 
 <div align="center">
 
@@ -92,7 +92,7 @@ For this project, the model was deployed using a Gradio app hosted on Hugging Fa
 
 [Click here to see the full study](https://shre.ink/rYcD)
 
-* ### [**Machine Learning e Health Insurance: Impacto na Previsão de Seguros de Saúde:**](https://shre.ink/rXwd)
+* ### [**Machine Learning and Health Insurance**](https://shre.ink/rXwd)
 
 <div align="center" >
 
