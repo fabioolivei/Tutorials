@@ -47,7 +47,7 @@ For this project, the model was deployed using a Gradio app hosted on Hugging Fa
 
 
 
-* ### [**Billions in Losses Avoided! Machine Learning in the Fight Against Card Fraud:**](https://shre.ink/UpF5)
+* ### [**Billions in Losses Avoided! Machine Learning in the Fight Against Card Fraud:**](https://github.com/fabioolivei/Fabio_Olivei_Data_Sciense/blob/main/ML_Card_Fraud/notebooks/Ml_Fraud.ipynb)
 
 
 <div align="center">
@@ -69,12 +69,12 @@ For this project, the model was deployed using a Gradio app hosted on Hugging Fa
 *   The model identifies R$ 7.05 billion as potential frauds.
 *   Of this total, R$ 6.2 billion are actually frauds and are avoided. Thanks to our best model, the company manages to avoid an additional loss of R$ 6.2 billion in frauds.
 
-[Click here to see the full study](https://shre.ink/UpF5)
+[Click here to see the full study]([https://shre.ink/UpF5](https://github.com/fabioolivei/Fabio_Olivei_Data_Sciense/blob/main/ML_Card_Fraud/notebooks/Ml_Fraud.ipynb))
 
 
 
 
-* ### [**YouTube Insights ( EDA ):**](https://github.com/fabioolivei/Fabio_Olivei_Data_Sciense/blob/main/YouTube_Insights_(%20EDA%20)/notebooks/YouTube_Insights_Uma_An%C3%A1lise_dos_Canais_Mais_Bem_Sucedidos_da_Plataforma.ipynb)
+* ### [**YouTube Insights ( EDA ):**](https://github.com/fabioolivei/Fabio_Olivei_Data_Sciense/blob/main/YouTube_Insights_(https://github.com/fabioolivei/Fabio_Olivei_Data_Sciense/blob/main/YouTube_Insights_(%20EDA%20)/notebooks/YouTube_Insights_Uma_An%C3%A1lise_dos_Canais_Mais_Bem_Sucedidos_da_Plataforma.ipynb)
 
 <div align="center">
 
@@ -90,9 +90,9 @@ For this project, the model was deployed using a Gradio app hosted on Hugging Fa
 
 - **Power of Data:** The critical importance of data analysis and analytics in optimizing content and marketing strategies.
 
-[Click here to see the full study](https://shre.ink/rYcD)
+[Click here to see the full study]([https://shre.ink/rYcD](https://github.com/fabioolivei/Fabio_Olivei_Data_Sciense/blob/main/YouTube_Insights_(%20EDA%20)/notebooks/YouTube_Insights_Uma_An%C3%A1lise_dos_Canais_Mais_Bem_Sucedidos_da_Plataforma.ipynb))
 
-* ### [**Machine Learning and Health Insurance**](https://shre.ink/rXwd)
+* ### [**Machine Learning and Health Insurance**](https://github.com/fabioolivei/Fabio_Olivei_Data_Sciense/blob/main/Machine_Learning_e_Health_Insurance/notebooks/Machine_Learning_e_Health_Insurance_Impacto_na_Previs%C3%A3o_de_Seguros_de_Sa%C3%BAde.ipynb)
 
 <div align="center" >
 
@@ -109,9 +109,9 @@ The dataset focuses on predicting health insurance costs based on factors such a
 
 - Modeling: The model shows good overall performance, with a high R2 and a relatively low MAPE on unseen data, which is encouraging for its practical application. 
 
-[Click here to see the full study](https://shre.ink/rXwd)
+[Click here to see the full study](https://github.com/fabioolivei/Fabio_Olivei_Data_Sciense/blob/main/Machine_Learning_e_Health_Insurance/notebooks/Machine_Learning_e_Health_Insurance_Impacto_na_Previs%C3%A3o_de_Seguros_de_Sa%C3%BAde.ipynb)
 
-* ### [**A/B Testing Strategies in Fast Food Advertising:**](https://shre.ink/rhPB)
+* ### [**A/B Testing Strategies in Fast Food Advertising:**](https://github.com/fabioolivei/Fabio_Olivei_Data_Sciense/blob/main/A-B_Testing_Strategies_in_Fast_Food_Advertising/notebooks/A_B_Testing_Strategies_in_Fast_Food_Advertising.ipynb)
 
 <div align="center">
 
@@ -132,12 +132,12 @@ Evaluation
 - A/B Testing Results: Identified that Promotion 1 and Promotion 3 are statistically more effective than Promotion 2.
 - Cross-Validation: Lowest Mean Squared Error (MSE): The lowest value, 0.085, suggests a relatively good performance of the model in that specific fold, indicating that the model had an average squared error of approximately 85 sales (when we multiply by 1000 to convert back to the original scale of 'SalesInThousands').
 
-[Click here to see the full study](https://shre.ink/rhPB)
+[Click here to see the full study]([https://shre.ink/rhPB](https://github.com/fabioolivei/Fabio_Olivei_Data_Sciense/blob/main/A-B_Testing_Strategies_in_Fast_Food_Advertising/notebooks/A_B_Testing_Strategies_in_Fast_Food_Advertising.ipynb))
 
 ## Exploratory Data Analysis (EDA) 
 
 
-* ### [**Analyzing Airbnb Data (Lisbon):**](https://shre.ink/HLXA)
+* ### [**Analyzing Airbnb Data (Lisbon):**](https://github.com/fabioolivei/Fabio_Olivei_Data_Sciense/blob/main/Analyzing%20Airbnb%20Data%20(Lisbon)/notebooks/Analisando_os_Dados_do_Airbnb_(Lisboa).ipynb)
 
 <div align="center">
 
@@ -155,7 +155,7 @@ Imagine embarking on a journey that takes you to a place where the roots of Braz
 Based on the data and analyses conducted, we observe that the majority of properties in Lisbon listed on Airbnb are full houses or apartments available for rent. Moreover, there is also a significant number of private rooms available. We can also define the average of the highest and lowest values for the 10 neighborhoods.
 
 
-* ### [**COVID-19 in Brazil and the world:**](https://shre.ink/9PXH)
+* ### [**COVID-19 in Brazil and the world:**](https://github.com/fabioolivei/Fabio_Olivei_Data_Sciense/blob/main/COVID-19%20in%20Brazil%20and%20the%20world/notebooks/COVID_19_no_Brasil_e_no_mundo.ipynb)
 
 <div align="center">
 
@@ -174,7 +174,7 @@ I made a bar chart race of 10 selected countries based on the cumulative number 
 
 
   
-* ### [**Top 100 Highest-Grossing Movies:**](https://shre.ink/9PXV)
+* ### [**Top 100 Highest-Grossing Movies:**](https://github.com/fabioolivei/Fabio_Olivei_Data_Sciense/blob/main/Top_100_Highest-Grossing_Movies/notebooks/top100movies_maiores_bilheterias.ipynb)
 
 <div align="center">
 
@@ -195,7 +195,7 @@ In summary, the analysis provided a detailed view of box office trends, revealin
 I created a dynamic chart (bar chart race) to understand the top 10 highest-grossing films and draw some insights.
 
 
-* ### [**A/B Testing Strategies in Fast Food Advertising:**](https://shre.ink/rhPB)
+* ### [**A/B Testing Strategies in Fast Food Advertising:**]([https://shre.ink/rhPB](https://github.com/fabioolivei/Fabio_Olivei_Data_Sciense/blob/main/A-B_Testing_Strategies_in_Fast_Food_Advertising/notebooks/A_B_Testing_Strategies_in_Fast_Food_Advertising.ipynb))
 
 <div align="center">
 
@@ -216,10 +216,10 @@ Evaluation
 - A/B Testing Results: Identified that Promotion 1 and Promotion 3 are statistically more effective than Promotion 2.
 - Cross-Validation: Lowest Mean Squared Error (MSE): The lowest value, 0.085, suggests a relatively good performance of the model in that specific fold, indicating that the model had an average squared error of approximately 85 sales (when we multiply by 1000 to convert back to the original scale of 'SalesInThousands').
 
-[Click here to see the full study](https://shre.ink/rhPB)
+[Click here to see the full study]([https://shre.ink/rhPB](https://github.com/fabioolivei/Fabio_Olivei_Data_Sciense/blob/main/A-B_Testing_Strategies_in_Fast_Food_Advertising/notebooks/A_B_Testing_Strategies_in_Fast_Food_Advertising.ipynb))
 ## Tutorial
 
-* ## [**Bar Chart Race as a Data Visualization Tool:**](https://shre.ink/9PSt)
+* ## [**Bar Chart Race as a Data Visualization Tool:**](https://github.com/fabioolivei/Fabio_Olivei_Data_Sciense/blob/main/The%20Bar%20Chart%20Race%20as%20a%20Data%20Visualization%20Tool/notebooks/O_Bar_Chart_Race_como_Ferramenta_de_Visualiza%C3%A7%C3%A3o_de_Dados%20(1).ipynb)
 
 <div align="center">
 
