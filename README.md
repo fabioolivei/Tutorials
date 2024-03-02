@@ -195,7 +195,7 @@ In summary, the analysis provided a detailed view of box office trends, revealin
 I created a dynamic chart (bar chart race) to understand the top 10 highest-grossing films and draw some insights.
 
 
-* ### [**A/B Testing Strategies in Fast Food Advertising:**]([https://shre.ink/rhPB](https://github.com/fabioolivei/Fabio_Olivei_Data_Sciense/blob/main/A-B_Testing_Strategies_in_Fast_Food_Advertising/notebooks/A_B_Testing_Strategies_in_Fast_Food_Advertising.ipynb))
+* ### [**A/B Testing Strategies in Fast Food Advertising:**]([https://shre.ink/rhPB](https://github.com/fabioolivei/Fabio_Olivei_Data_Sciense/blob/main/A-B_Testing_Strategies_in_Fast_Food_Advertising/notebooks/A_B_Testing_Strategies_in_Fast_Food_Advertising.ipynb)
 
 <div align="center">
 
