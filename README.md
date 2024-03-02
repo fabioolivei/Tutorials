@@ -216,14 +216,14 @@ Evaluation
 - A/B Testing Results: Identified that Promotion 1 and Promotion 3 are statistically more effective than Promotion 2.
 - Cross-Validation: Lowest Mean Squared Error (MSE): The lowest value, 0.085, suggests a relatively good performance of the model in that specific fold, indicating that the model had an average squared error of approximately 85 sales (when we multiply by 1000 to convert back to the original scale of 'SalesInThousands').
 
-[Click here to see the full study]([https://shre.ink/rhPB](https://github.com/fabioolivei/Fabio_Olivei_Data_Sciense/blob/main/A-B_Testing_Strategies_in_Fast_Food_Advertising/notebooks/A_B_Testing_Strategies_in_Fast_Food_Advertising.ipynb))
+[Click here to see the full study](https://github.com/fabioolivei/Fabio_Olivei_Data_Sciense/blob/main/A-B_Testing_Strategies_in_Fast_Food_Advertising/notebooks/A_B_Testing_Strategies_in_Fast_Food_Advertising.ipynb)
 ## Tutorial
 
 * ## [**Bar Chart Race as a Data Visualization Tool:**](https://github.com/fabioolivei/Fabio_Olivei_Data_Sciense/blob/main/The%20Bar%20Chart%20Race%20as%20a%20Data%20Visualization%20Tool/notebooks/O_Bar_Chart_Race_como_Ferramenta_de_Visualiza%C3%A7%C3%A3o_de_Dados%20(1).ipynb)
 
 <div align="center">
 
-![Descrição do GIF](https://github.com/fabioolivei/Fabio_Olivei_Data_Sciense/blob/main/evolu%C3%A7%C3%A3o_covid.gif)
+![Descrição do GIF](https://github.com/fabioolivei/Fabio_Olivei_Data_Sciense/blob/main/COVID-19%20in%20Brazil%20and%20the%20world/reports/figures/evolu%C3%A7%C3%A3o_covid.gif)
 
 </div>
 
@@ -237,3 +237,7 @@ One way to plot a bar chart race is by using an open-source tool such as Python 
 
 - ### Using Gemini and ChatGPT to Assist in Creating Dynamic Charts
 [Click here to see the Tutorial](https://medium.com/@fabioolivei/o-bar-chart-race-como-ferramenta-de-visualiza%C3%A7%C3%A3o-de-dados-f421c304e7e)
+
+## [**Articles**](https://medium.com/@fabioolivei)
+
+![](https://assets.zyrosite.com/Y4L8BJjE2oia5PMq/fabioolivei-articles-mv0ljDR66qFnrJyz.gif)
