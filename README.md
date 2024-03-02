@@ -74,7 +74,7 @@ For this project, the model was deployed using a Gradio app hosted on Hugging Fa
 
 
 
-* ### [**YouTube Insights ( EDA ):**](https://github.com/fabioolivei/Fabio_Olivei_Data_Sciense/blob/main/YouTube_Insights_(https://github.com/fabioolivei/Fabio_Olivei_Data_Sciense/blob/main/YouTube_Insights_(%20EDA%20)/notebooks/YouTube_Insights_Uma_An%C3%A1lise_dos_Canais_Mais_Bem_Sucedidos_da_Plataforma.ipynb)
+* ### [**YouTube Insights ( EDA ):**](https://github.com/fabioolivei/Fabio_Olivei_Data_Sciense/blob/main/YouTube_Insights_(%20EDA%20)/notebooks/YouTube_Insights_Uma_An%C3%A1lise_dos_Canais_Mais_Bem_Sucedidos_da_Plataforma.ipynb)
 
 <div align="center">
 
