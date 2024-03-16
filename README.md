@@ -219,7 +219,7 @@ Evaluation
 [Click here to see the full study](https://github.com/fabioolivei/Fabio_Olivei_Data_Sciense/blob/main/A-B_Testing_Strategies_in_Fast_Food_Advertising/notebooks/A_B_Testing_Strategies_in_Fast_Food_Advertising.ipynb)
 ## Tutorial
 
-* ## [**Bar Chart Race as a Data Visualization Tool:**](https://github.com/fabioolivei/Fabio_Olivei_Data_Sciense/blob/main/The%20Bar%20Chart%20Race%20as%20a%20Data%20Visualization%20Tool/notebooks/O_Bar_Chart_Race_como_Ferramenta_de_Visualiza%C3%A7%C3%A3o_de_Dados%20(1).ipynb)
+* ### [**Bar Chart Race as a Data Visualization Tool:**](https://github.com/fabioolivei/Fabio_Olivei_Data_Sciense/blob/main/The%20Bar%20Chart%20Race%20as%20a%20Data%20Visualization%20Tool/notebooks/O_Bar_Chart_Race_como_Ferramenta_de_Visualiza%C3%A7%C3%A3o_de_Dados%20(1).ipynb)
 
 <div align="center">
 
