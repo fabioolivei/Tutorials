@@ -243,7 +243,7 @@ One way to plot a bar chart race is by using an open-source tool such as Python 
 ![](https://assets.zyrosite.com/Y4L8BJjE2oia5PMq/fabioolivei-articles-mv0ljDR66qFnrJyz.gif)
 
 ## **Power BI**  <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/2bf1c982fb24528eee1559a96a25eb534c175cfd/SVG/Power-BI.svg" />
-### [**E-commerce Sales Analysis**](https://github.com/fabioolivei/Power_BI/edit/main/README.md)
+* ### [**E-commerce Sales Analysis**](https://github.com/fabioolivei/Power_BI/edit/main/README.md)
 
 <div align="center">
 
