@@ -244,5 +244,15 @@ One way to plot a bar chart race is by using an open-source tool such as Python 
 
 ## **Power BI**  <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/2bf1c982fb24528eee1559a96a25eb534c175cfd/SVG/Power-BI.svg" />
 
+<div align="center">
+
+![Descrição do GIF](https://github.com/fabioolivei/Fabio_Olivei_Data_Sciense/blob/main/COVID-19%20in%20Brazil%20and%20the%20world/reports/figures/evolu%C3%A7%C3%A3o_covid.gif)
+
+</div>
+
+- E-commerce Sales Analysis: Examination of sales information to uncover patterns, standout products, and key revenue indicators, aiding in strategic decision-making. It includes calculations of total sales, average sales, total and average number of monthly transactions, in addition to the creation of a dashboard showing monthly and quarterly sales, geographic distribution of sales, market share analysis, and a ranking of best-selling products.
+
+- The insights led to a 20% increase in target product sales and a 15% reduction in marketing expenses, focusing on high-performing regions and products.
+
 
 
