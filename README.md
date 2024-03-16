@@ -246,7 +246,7 @@ One way to plot a bar chart race is by using an open-source tool such as Python 
 
 <div align="center">
 
-![Descrição do GIF](https://github.com/fabioolivei/Fabio_Olivei_Data_Sciense/blob/main/COVID-19%20in%20Brazil%20and%20the%20world/reports/figures/evolu%C3%A7%C3%A3o_covid.gif)
+![Descrição do GIF](https://github.com/fabioolivei/Power_BI/blob/main/E-commerce%20Sales%20Analysis/E-commerce%20Sales%20Analysis..gif)
 
 </div>
 
