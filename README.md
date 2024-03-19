@@ -32,17 +32,13 @@
 
 </div>
 
-- **Project Objectives:** To develop an ML model for predicting diabetes with high precision and recall, targeting early intervention and enhanced patient health management.
+- **Situation:** In a health clinic, we attend to about 10,000 patients a month, of which 1,000 have diabetes. Before our project, only 150 of those cases were diagnosed in time for effective treatment.
 
-- **Deployment**:
-For this project, the model was deployed using a Gradio app hosted on Hugging Face Spaces.
+- **Task:** Our mission was to develop a Machine Learning model capable of predicting diabetes cases with high precision and recall, aiming for early intervention and improved patient health management.
 
-- **Without a Detection Model:** Consider a scenario where a health clinic serves 10,000 patients per month, of which 1,000 have diabetes, but only 150 are diagnosed in time.
+- **Action:** We decided to use an optimized XGBoost model for the task, due to its superior performance in classification tasks. After development, the model was implemented through a Gradio application, hosted on Hugging Face Spaces, making it accessible and easy to use by clinic staff.
 
-- **With the Optimized XGBoost Model (The Best Model)**: The model identifies 900 patients as potential diabetes cases. Of those 900, 750 actually have diabetes and are diagnosed.
-
-- **Impact Result:** Thanks to the best diabetes prediction model, the clinic can identify and diagnose early 750 diabetes cases among patients. This represents a significant increase in detection compared to the previous scenario, where only 150 cases were diagnosed.
-
+- **Result:** With the deployment of our optimized model, we were able to identify 900 patients as potential diabetes cases, of which 750 actually had the disease and were diagnosed. This represented a significant increase in the detection of diabetes cases, jumping from only 150 diagnoses to 750, thanks to our diabetes prediction model.
 
 
 
@@ -56,18 +52,13 @@ For this project, the model was deployed using a Gradio app hosted on Hugging Fa
 
 </div>
 
-- What is the importance of Machine Learning in practice, in this project?
-  
-**Without a Detection Model**:
+**Situation:** A company processes R$ 500 billion in transactions, within which R$ 7.5 billion are fraudulent. Without an effective detection model, the company was only able to detect and prevent 15% of these frauds, equating to R$ 1.125 billion, leaving R$ 6.375 billion in frauds undetected.
 
-*   Consider a company with R$ 500 billion in transactions, where 7.5 billion are frauds.
-*   It manages to detect and prevent 15% of the frauds: (R$ 1.125 billion).
-*   Still, R$ 6.375 billion in frauds go unnoticed.
+**Task:** The critical task was to enhance fraud detection capabilities to mitigate the substantial financial losses incurred due to undetected frauds. The goal was to leverage Machine Learning to significantly improve the detection and prevention of fraudulent transactions.
 
-**With the best Machine Learning model found in this project**:
+**Action:** In this project, we embarked on developing and fine-tuning a Machine Learning model to accurately identify fraudulent transactions. Through rigorous experimentation and optimization, the best performing model identified was an advanced Machine Learning model, specifically designed to pinpoint fraudulent activities with high precision.
 
-*   The model identifies R$ 7.05 billion as potential frauds.
-*   Of this total, R$ 6.2 billion are actually frauds and are avoided. Thanks to our best model, the company manages to avoid an additional loss of R$ 6.2 billion in frauds.
+**Result:** With the implementation of the optimal Machine Learning model, we managed to identify R$ 7.05 billion as potential frauds. Remarkably, R$ 6.2 billion of this amount were confirmed frauds, which the model successfully helped to avoid. Consequently, the company managed to significantly reduce its losses by preventing an additional R$ 6.2 billion in fraudulent transactions. This outcome underscores the pivotal role of Machine Learning in enhancing operational efficiency and safeguarding financial assets.
 
 [Click here to see the full study]([https://shre.ink/UpF5](https://github.com/fabioolivei/Fabio_Olivei_Data_Sciense/blob/main/ML_Card_Fraud/notebooks/Ml_Fraud.ipynb))
 
@@ -82,13 +73,17 @@ For this project, the model was deployed using a Gradio app hosted on Hugging Fa
 
 </div>
 
-- **Understanding the Analysis:** The aim of this analysis is to explore the diverse landscape of YouTube channels, identifying the most popular ones, their categories, and the impact of different countries on the platform. This includes understanding success metrics such as the number of subscribers and video views, and how these factors correlate with creators' earnings.
+**Situation:** The landscape of YouTube has become increasingly diverse, with channels from around the world contributing to a rich tapestry of content. Recognizing the importance of understanding this ecosystem, our analysis aimed to explore the most popular YouTube channels, their categories, and the influence of different countries on the platform. Key success metrics such as the number of subscribers and video views were central to our examination, as these factors are crucial in understanding the revenue potential for creators.
 
-- **Exploratory Data Analysis (EDA)**: Here, we answer some important questions for our analysis. Initially, we conducted a detailed statistical description of the dataset to get a basic understanding of trends and patterns. A temporal analysis was performed, correlating various variables to extract deeper insights. Then, we focused on the count of channels from different countries, categorizing them to facilitate comparisons and themes.
+**Task:** Our primary task was to conduct a thorough analysis to identify trends, patterns, and correlations within the YouTube platform. This included categorizing channels by country and genre, analyzing subscriber and view counts, and assessing the impact of these metrics on creators' earnings. The ultimate goal was to provide insights that could aid in optimizing content and marketing strategies for better engagement and profitability.
 
-- **Trends and Correlations:** Understanding the relationship between engagement and profitability in the current YouTube landscape.
+**Action:** We initiated our analysis by performing an Exploratory Data Analysis (EDA) to gain a fundamental understanding of the dataset. This involved:
+- Conducting a detailed statistical description of the dataset to identify basic trends and patterns.
+- Performing a temporal analysis to see how certain variables changed over time and their impact on the platform.
+- Analyzing the count of channels from different countries and categorizing them to simplify comparisons and understand thematic distributions.
+- Investigating trends and correlations, particularly focusing on how engagement metrics like subscriber counts and video views relate to profitability.
 
-- **Power of Data:** The critical importance of data analysis and analytics in optimizing content and marketing strategies.
+**Result:** Through our comprehensive analysis, we were able to uncover valuable insights into the YouTube ecosystem. We identified key trends that highlight the relationship between engagement and profitability, revealing that certain categories and countries dominate in terms of subscriber counts and views. Our findings underscore the critical role of data analysis and analytics in content and marketing strategy optimization. By understanding these dynamics, content creators and marketers can make informed decisions to enhance their content's appeal and reach, ultimately increasing engagement and revenue. This analysis not only provided a snapshot of the current YouTube landscape but also offered strategic insights for optimizing future content creation and distribution.
 
 [Click here to see the full study]([https://shre.ink/rYcD](https://github.com/fabioolivei/Fabio_Olivei_Data_Sciense/blob/main/YouTube_Insights_(%20EDA%20)/notebooks/YouTube_Insights_Uma_An%C3%A1lise_dos_Canais_Mais_Bem_Sucedidos_da_Plataforma.ipynb))
 
@@ -103,11 +98,13 @@ For this project, the model was deployed using a Gradio app hosted on Hugging Fa
 - **Business Understanding:**
 The dataset focuses on predicting health insurance costs based on factors such as age, gender, Body Mass Index (BMI), number of children, smoking status, and region. Understanding these relationships is crucial for insurers to price policies accurately.
 
-- Insights and Recommendations Pricing Strategy: Consider factors such as number of children, smoking habits, and BMI for pricing, given their impact on health costs. 
+**Situation:** Without an effective risk prediction model for health insurance, an insurer serving 50,000 clients faces a yearly challenge: 5,000 of these clients incur high and unexpected medical expenses. This lack of foresight prevents the insurer from adjusting its policies and pricing accurately, resulting in significant financial losses.
 
-- Regional Evaluation: Analyze regional differences to adapt pricing and coverage strategies. 
+**Task:** To mitigate these losses and improve accuracy in insurance policy pricing, the insurer needs to develop a Machine Learning model capable of identifying clients at high risk of incurring elevated medical expenses in advance, taking into account variables such as age, gender, BMI, number of children, smoking habits, and region.
 
-- Modeling: The model shows good overall performance, with a high R2 and a relatively low MAPE on unseen data, which is encouraging for its practical application. 
+**Action:** The insurer opted to implement an optimized Gradient Boosting Regressor model, recognized for its superior performance in regression tasks. This model was trained to analyze clients' historical data and risk factors, identifying those most likely to generate high costs. The analysis and modeling considered factors such as the number of children, smoking habits, and BMI, as well as evaluated regional differences to adapt pricing and coverage strategies more effectively.
+
+**Result:** With the implementation of the Gradient Boosting Regressor model, the insurer was able to accurately identify 4,000 clients with the potential for high medical expenses, of which 3,500 actually incurred elevated costs. This advancement allowed the insurer to better adjust its policies and pricing strategies for these clients, avoiding surprises and financial losses. Adopting this model not only increased operational efficiency and financial sustainability for the insurer but also enabled the offering of more personalized and fair health plans, significantly improving customer satisfaction and service. This data-driven approach reinforces the power of risk analysis and predictive modeling in optimizing health insurance management.
 
 [Click here to see the full study](https://github.com/fabioolivei/Fabio_Olivei_Data_Sciense/blob/main/Machine_Learning_e_Health_Insurance/notebooks/Machine_Learning_e_Health_Insurance_Impacto_na_Previs%C3%A3o_de_Seguros_de_Sa%C3%BAde.ipynb)
 
