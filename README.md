@@ -116,19 +116,18 @@ The dataset focuses on predicting health insurance costs based on factors such a
 
 </div>
 
-- **Objective:** The aim is to analyze a Fast Food Marketing Campaign dataset to understand the impact of different promotions on sales and identify the most effective strategies.
+**Situation:** The objective was to analyze a dataset from a Fast Food Marketing Campaign to discern the impact of different promotional strategies on sales. This analysis aimed to identify which marketing promotions were most effective at driving sales, addressing the critical question of how to allocate marketing resources efficiently.
 
-- **Key Question:** Which marketing promotions are most effective in driving sales?
+**Task:** The key question we needed to answer was which marketing promotions are most effective in driving sales. This required a detailed analysis of the dataset to compare the effectiveness of various promotional strategies employed by the fast-food chain.
 
-**Statistical Significance (p-values)**:
-- Promotion 1 vs Promotion 2: p-value ≈ 4.29e-10
-- Promotion 1 vs Promotion 3: p-value ≈ 0.121
-- Promotion 2 vs Promotion 3: p-value ≈ 1.57e-06
+**Action:** To achieve our objectives, we employed several analytical techniques, including:
+- **Statistical Significance Testing:** We conducted A/B testing to compare the sales impact of different promotions. Specifically, we compared Promotion 1 vs. Promotion 2, Promotion 1 vs. Promotion 3, and Promotion 2 vs. Promotion 3. The p-values from these comparisons were analyzed to determine statistical significance.
+    - Promotion 1 vs Promotion 2: p-value ≈ 4.29e-10
+    - Promotion 1 vs Promotion 3: p-value ≈ 0.121
+    - Promotion 2 vs Promotion 3: p-value ≈ 1.57e-06
+- **Cross-Validation:** We also utilized cross-validation techniques to assess the model's performance, focusing on the Mean Squared Error (MSE) as a measure of accuracy. The lowest MSE observed was 0.085, indicating a relatively good performance of the model in that specific fold.
 
-Evaluation
-- A/B Testing Results: Identified that Promotion 1 and Promotion 3 are statistically more effective than Promotion 2.
-- Cross-Validation: Lowest Mean Squared Error (MSE): The lowest value, 0.085, suggests a relatively good performance of the model in that specific fold, indicating that the model had an average squared error of approximately 85 sales (when we multiply by 1000 to convert back to the original scale of 'SalesInThousands').
-
+**Result:** The A/B testing results indicated that Promotion 1 and Promotion 3 are statistically more effective than Promotion 2 in driving sales. This was supported by the p-values, which showed significant differences between the promotions. The cross-validation process, particularly the analysis of the lowest MSE, further validated the effectiveness of our analytical approach. By identifying the most effective marketing promotions, we can now recommend focusing resources on Promotion 1 and Promotion 3 for future marketing campaigns. This analysis not only answers the key question posed but also provides a foundation for optimizing marketing strategies to enhance sales performance.
 [Click here to see the full study]([https://shre.ink/rhPB](https://github.com/fabioolivei/Fabio_Olivei_Data_Sciense/blob/main/A-B_Testing_Strategies_in_Fast_Food_Advertising/notebooks/A_B_Testing_Strategies_in_Fast_Food_Advertising.ipynb))
 
 ## Exploratory Data Analysis (EDA) 
@@ -142,14 +141,18 @@ Evaluation
 
 </div>
 
-- ### Data Acquisition:
-All data used here were obtained from the Inside Airbnb website.
+**Situation:** The aim of our study was to explore the Airbnb market in Lisbon, a city with deep historical ties to Brazil, noted for its unique architecture, cuisine, and hospitality. Our investigation sought to provide insights into the types of accommodations available, as well as their distribution across different neighborhoods. The data for this analysis was sourced exclusively from the Inside Airbnb website.
 
-- ### Why Travel to Lisbon?
-Imagine embarking on a journey that takes you to a place where the roots of Brazil's history are deeply intertwined, be it through its architecture, cuisine, and hospitality. The city boasts renowned museums such as the National Tile Museum and the National Museum of Ancient Art, and a traditional cuisine with dishes like codfish and pastéis de nata.
+**Task:** Our primary task was to analyze the Airbnb listings in Lisbon to understand the variety of lodging options offered to travelers. This included categorizing the types of accommodations available and assessing their distribution and pricing across the city's neighborhoods. The goal was to offer valuable insights for travelers considering Lisbon as their next destination, as well as for property owners looking to list their properties on Airbnb.
 
-- ### Conclusion:
-Based on the data and analyses conducted, we observe that the majority of properties in Lisbon listed on Airbnb are full houses or apartments available for rent. Moreover, there is also a significant number of private rooms available. We can also define the average of the highest and lowest values for the 10 neighborhoods.
+**Action:** To accomplish our objectives, we undertook the following steps:
+- **Data Acquisition:** Gathered all necessary data from the Inside Airbnb website, ensuring a comprehensive dataset that included various types of accommodations across Lisbon.
+- **Analysis:** Conducted detailed analyses to:
+    - Identify the types of Airbnb accommodations available (e.g., full houses/apartments, private rooms).
+    - Assess the distribution of these accommodations across Lisbon's neighborhoods.
+    - Calculate the average of the highest and lowest values for accommodations in the top 10 neighborhoods, providing a pricing overview.
+
+**Result:** Our analysis revealed that the majority of Airbnb properties in Lisbon are full houses or apartments available for rent, reflecting a preference among visitors for private and spacious accommodations. There is also a substantial availability of private rooms, catering to budget-conscious travelers. Through our examination of the top 10 neighborhoods, we were able to define the average high and low pricing, offering potential visitors and property owners valuable insights into the market. This study not only highlights Lisbon's appeal as a travel destination, with its rich cultural offerings and historical significance, but also provides a clear picture of its Airbnb market, assisting travelers in making informed accommodation choices.
 
 
 * ### [**COVID-19 in Brazil and the world:**](https://github.com/fabioolivei/Fabio_Olivei_Data_Sciense/blob/main/COVID-19%20in%20Brazil%20and%20the%20world/notebooks/COVID_19_no_Brasil_e_no_mundo.ipynb)
@@ -160,15 +163,16 @@ Based on the data and analyses conducted, we observe that the majority of proper
 
 </div>
 
-- ### Purpose of This Article
-The aim of this analysis is to examine the current data on COVID-19, both in Brazil and worldwide, three years after the pandemic began. We will look into insights through a comprehensive statistical analysis of the disease's situation.
+**Situation:** Three years into the COVID-19 pandemic, there's a pressing need to assess its impact globally and within Brazil. The pandemic's enduring effects on health, economy, and society necessitate a detailed examination to inform ongoing response strategies and recovery efforts. This analysis aims to provide a comprehensive statistical overview of the current situation of the disease.
 
-- ### Data Collection and Analysis:
-Reliable data collection was carried out to understand the impact of COVID-19 and monitor its progression. Using data from various sources, including the World Health Organization (WHO), the European Centre for Disease Prevention and Control (ECDC), the Organisation for Economic Co-operation and Development (OECD), the United Nations (UN), and official reports from local governments.
+**Task:** The primary task is to collect and analyze current data on COVID-19 to understand its progression and impact better. This involves examining infection rates, death tolls, recovery statistics, and other relevant data points from both Brazil and around the world. A critical aspect of this task is to ensure that the data used for analysis is reliable and up-to-date, sourced from reputable organizations and local government reports.
 
-- ### Bonus:
-I made a bar chart race of 10 selected countries based on the cumulative number of recorded deaths.
+**Action:** To achieve our objectives, the following steps were undertaken:
+- **Data Collection:** Data was meticulously gathered from authoritative sources, including the World Health Organization (WHO), the European Centre for Disease Prevention and Control (ECDC), the Organisation for Economic Co-operation and Development (OECD), the United Nations (UN), and official reports from local governments. This ensured a broad and accurate dataset for analysis.
+- **Data Analysis:** Conducted a comprehensive statistical analysis of the collected data to derive insights on the disease's progression, impact, and current state. This included examining trends over time, comparing the situation across different countries, and evaluating the effectiveness of various response measures.
+- **Visualization:** As a bonus, a bar chart race was created to visualize the cumulative number of recorded deaths due to COVID-19 in 10 selected countries, providing an engaging and informative perspective on the data.
 
+**Result:** Through our rigorous data collection and analysis, we were able to gain valuable insights into the current state of the COVID-19 pandemic, both in Brazil and globally. The statistical analysis highlighted key trends and patterns in the disease's progression, helping to identify areas where efforts have been successful and where challenges remain. The bar chart race offered a unique visual representation of the pandemic's impact, emphasizing the severity and global scale of COVID-19 deaths over time. This comprehensive examination provides stakeholders with crucial information needed to guide future pandemic response and recovery strategies, underlining the importance of continued vigilance and adaptation in the face of COVID-19.
 
   
 * ### [**Top 100 Highest-Grossing Movies:**](https://github.com/fabioolivei/Fabio_Olivei_Data_Sciense/blob/main/Top_100_Highest-Grossing_Movies/notebooks/top100movies_maiores_bilheterias.ipynb)
@@ -179,17 +183,17 @@ I made a bar chart race of 10 selected countries based on the cumulative number 
 
 </div>
 
-- ### Analysis Objective
-- Compare box office revenues from different countries, genres, and periods.
-- Identify trends in box office revenue over time.
-- Highlight the most successful franchises in the top positions.
-- Gain insights more easily through graphs on the ranking over time.
+**Situation:** The purpose of our analysis was to explore box office revenues across different countries, genres, and time periods. This included a deep dive into the trends affecting box office revenue over time and identifying the most successful movie franchises.
 
-- ### Conclusion (EDA):
-In summary, the analysis provided a detailed view of box office trends, revealing which films and distributors dominated the box offices and how box office revenue has evolved over the years.
+**Task:** Our main tasks were to compare box office revenues by country, genre, and period; identify revenue trends over time; highlight top-performing franchises; and simplify the understanding of these trends through graphical representations. This comprehensive analysis aimed to provide a clear picture of the dynamics at play in the global movie industry.
 
-- ### Bonus:
-I created a dynamic chart (bar chart race) to understand the top 10 highest-grossing films and draw some insights.
+**Action:** To achieve our objectives, we undertook several steps:
+- Conducted a thorough Exploratory Data Analysis (EDA) to examine box office revenue data from various sources. This allowed us to gain a detailed understanding of the trends and patterns in the data.
+- Compared box office revenues across different dimensions such as geographical location, genre of the films, and time periods to identify significant trends and outliers.
+- Highlighted the most successful franchises by analyzing their performance in terms of box office revenues.
+- Utilized graphical representations, including dynamic charts like bar chart races, to visualize the ranking of top-performing films and franchises over time. This approach made it easier to digest complex data and draw insights.
+
+**Result:** The analysis provided a detailed view of the trends in box office revenues, revealing which films and distributors have dominated the box office and how revenue patterns have evolved over the years. By comparing box office revenues across different criteria, we identified key trends and success factors. The dynamic chart (bar chart race) created as a bonus helped to clearly understand the top 10 highest-grossing films, offering a visually engaging way to draw insights. This comprehensive analysis shed light on the dynamics of box office performance, contributing valuable insights for stakeholders in the film industry.
 
 
 * ### [**A/B Testing Strategies in Fast Food Advertising:**](https://github.com/fabioolivei/Fabio_Olivei_Data_Sciense/blob/main/A-B_Testing_Strategies_in_Fast_Food_Advertising/notebooks/A_B_Testing_Strategies_in_Fast_Food_Advertising.ipynb)
@@ -200,20 +204,20 @@ I created a dynamic chart (bar chart race) to understand the top 10 highest-gros
 
 </div>
 
-- **Objective:** The aim is to analyze a Fast Food Marketing Campaign dataset to understand the impact of different promotions on sales and identify the most effective strategies.
+**Situation:** The objective was to analyze a dataset from a Fast Food Marketing Campaign to discern the impact of different promotional strategies on sales. This analysis aimed to identify which marketing promotions were most effective at driving sales, addressing the critical question of how to allocate marketing resources efficiently.
 
-- **Key Question:** Which marketing promotions are most effective in driving sales?
+**Task:** The key question we needed to answer was which marketing promotions are most effective in driving sales. This required a detailed analysis of the dataset to compare the effectiveness of various promotional strategies employed by the fast-food chain.
 
-**Statistical Significance (p-values)**:
-- Promotion 1 vs Promotion 2: p-value ≈ 4.29e-10
-- Promotion 1 vs Promotion 3: p-value ≈ 0.121
-- Promotion 2 vs Promotion 3: p-value ≈ 1.57e-06
+**Action:** To achieve our objectives, we employed several analytical techniques, including:
+- **Statistical Significance Testing:** We conducted A/B testing to compare the sales impact of different promotions. Specifically, we compared Promotion 1 vs. Promotion 2, Promotion 1 vs. Promotion 3, and Promotion 2 vs. Promotion 3. The p-values from these comparisons were analyzed to determine statistical significance.
+    - Promotion 1 vs Promotion 2: p-value ≈ 4.29e-10
+    - Promotion 1 vs Promotion 3: p-value ≈ 0.121
+    - Promotion 2 vs Promotion 3: p-value ≈ 1.57e-06
+- **Cross-Validation:** We also utilized cross-validation techniques to assess the model's performance, focusing on the Mean Squared Error (MSE) as a measure of accuracy. The lowest MSE observed was 0.085, indicating a relatively good performance of the model in that specific fold.
 
-Evaluation
-- A/B Testing Results: Identified that Promotion 1 and Promotion 3 are statistically more effective than Promotion 2.
-- Cross-Validation: Lowest Mean Squared Error (MSE): The lowest value, 0.085, suggests a relatively good performance of the model in that specific fold, indicating that the model had an average squared error of approximately 85 sales (when we multiply by 1000 to convert back to the original scale of 'SalesInThousands').
+**Result:** The A/B testing results indicated that Promotion 1 and Promotion 3 are statistically more effective than Promotion 2 in driving sales. This was supported by the p-values, which showed significant differences between the promotions. The cross-validation process, particularly the analysis of the lowest MSE, further validated the effectiveness of our analytical approach. By identifying the most effective marketing promotions, we can now recommend focusing resources on Promotion 1 and Promotion 3 for future marketing campaigns. This analysis not only answers the key question posed but also provides a foundation for optimizing marketing strategies to enhance sales performance.
+[Click here to see the full study]([https://shre.ink/rhPB](https://github.com/fabioolivei/Fabio_Olivei_Data_Sciense/blob/main/A-B_Testing_Strategies_in_Fast_Food_Advertising/notebooks/A_B_Testing_Strategies_in_Fast_Food_Advertising.ipynb))
 
-[Click here to see the full study](https://github.com/fabioolivei/Fabio_Olivei_Data_Sciense/blob/main/A-B_Testing_Strategies_in_Fast_Food_Advertising/notebooks/A_B_Testing_Strategies_in_Fast_Food_Advertising.ipynb)
 ## Tutorial
 
 * ### [**Bar Chart Race as a Data Visualization Tool:**](https://github.com/fabioolivei/Fabio_Olivei_Data_Sciense/blob/main/The%20Bar%20Chart%20Race%20as%20a%20Data%20Visualization%20Tool/notebooks/O_Bar_Chart_Race_como_Ferramenta_de_Visualiza%C3%A7%C3%A3o_de_Dados%20(1).ipynb)
@@ -224,15 +228,16 @@ Evaluation
 
 </div>
 
-- ### Bar Chart Race as a Data Visualization Tool
-A bar chart race is a dynamic chart that shows the evolution of a value over time. It is a very effective way to visualize data, as it allows users to see how values change over time quickly and easily.
+**Situation:** The use of bar chart races has become increasingly popular in data visualization, particularly for showcasing the evolution of values over time. These dynamic charts offer a compelling and accessible way to present data changes, making it easier for audiences to grasp complex information quickly.
 
-- ### How to Plot a Bar Chart Race?
-There are several ways to plot a bar chart race.
+**Task:** Our objective was to leverage the bar chart race as a data visualization tool to effectively communicate changes in data over time. This involved selecting the appropriate software or programming language for creating the chart and ensuring the visualization clearly conveyed the intended insights.
 
-One way to plot a bar chart race is by using an open-source tool such as Python or R.
+**Action:** To accomplish this, we explored various methods for plotting a bar chart race, focusing on the following steps:
+- Investigated the capabilities of open-source tools like Python and R for data visualization, recognizing their flexibility and wide support for generating dynamic charts.
+- Decided to utilize Python for its extensive libraries (such as Matplotlib, Pandas, and Bar Chart Race) that facilitate the creation of bar chart races. This choice was motivated by Python's accessibility and the availability of tutorials and community support.
+- Experimented with Gemini, a tool designed to assist in creating dynamic and interactive charts, in conjunction with ChatGPT. This combination allowed for a more streamlined process in chart creation, from data processing to visualization.
 
-- ### Using Gemini and ChatGPT to Assist in Creating Dynamic Charts
+**Result:** By utilizing Python and exploring the functionalities of Gemini and ChatGPT, we successfully created a dynamic bar chart race that illustrates the evolution of data over time. This visualization tool proved to be an effective way to present data, offering clear and engaging insights into how values change over a period. The process highlighted the importance of selecting the right tools for data visualization tasks and demonstrated the potential of combining different technologies to enhance the clarity and impact of data presentations.
 [Click here to see the Tutorial](https://medium.com/@fabioolivei/o-bar-chart-race-como-ferramenta-de-visualiza%C3%A7%C3%A3o-de-dados-f421c304e7e)
 
 ## [**Articles**](https://medium.com/@fabioolivei)
@@ -248,9 +253,16 @@ One way to plot a bar chart race is by using an open-source tool such as Python 
 
 </div>
 
-- E-commerce Sales Analysis: Examination of sales information to uncover patterns, standout products, and key revenue indicators, aiding in strategic decision-making. It includes calculations of total sales, average sales, total and average number of monthly transactions, in addition to the creation of a dashboard showing monthly and quarterly sales, geographic distribution of sales, market share analysis, and a ranking of best-selling products.
+**Situation:** The primary focus was on analyzing e-commerce sales data to discern patterns, identify standout products, and highlight key revenue indicators. This analysis was crucial for strategic decision-making, aiming to enhance sales performance and optimize marketing expenditures.
 
-- The insights led to a 20% increase in target product sales and a 15% reduction in marketing expenses, focusing on high-performing regions and products.
+**Task:** Our objective was to conduct a comprehensive examination of the e-commerce sales information. This involved calculating total sales, average sales, total and average monthly transactions, and developing a dashboard. The dashboard was designed to display monthly and quarterly sales, geographic distribution of sales, market share analysis, and a ranking of best-selling products. These tasks were vital for uncovering insights that could drive strategic initiatives.
+
+**Action:** To achieve our goals, we undertook the following steps:
+- **Data Analysis:** Conducted a detailed analysis of the e-commerce sales data, calculating key metrics such as total sales, average sales, and the total and average number of monthly transactions.
+- **Dashboard Creation:** Developed an interactive dashboard that visually represents monthly and quarterly sales trends, the geographic distribution of sales, market share, and rankings of best-selling products. This dashboard served as a powerful tool for visualizing complex data and making it accessible for strategic planning.
+- **Strategic Insights:** Utilized the findings from our analysis to identify high-performing products and regions. These insights informed our recommendations for strategic adjustments to sales and marketing approaches.
+
+**Result:** The insights gained from our comprehensive e-commerce sales analysis led to significant improvements in the company's performance. By focusing on high-performing regions and products, we were able to increase target product sales by 20% and reduce marketing expenses by 15%. These outcomes demonstrate the effectiveness of data-driven decision-making in optimizing sales strategies and marketing expenditures, ultimately contributing to the company's bottom line.
 
 
 
