@@ -91,7 +91,7 @@
 
 <div align="center" >
 
-<img src="https://media.licdn.com/dms/image/D4D12AQFhjYnh9YPVQQ/article-cover_image-shrink_720_1280/0/1704463771968?e=1714608000&v=beta&t=DAQzeITTnvwhfglzk0nWg-QYtx0y1cB_jPXXb4BS7WQ" width=700 />
+<img src="https://github.com/fabioolivei/Fabio_Olivei_Data_Sciense/blob/main/Machine_Learning_e_Health_Insurance/reports/figures/fabioolivei_machineLearning_health_insurance.jpeg" width=700 />
 
 </div>
 
@@ -132,12 +132,34 @@ The dataset focuses on predicting health insurance costs based on factors such a
 
 ## Exploratory Data Analysis (EDA) 
 
+### [**State of Data Brazil 2023:**](https://github.com/fabioolivei/Fabio_Olivei_Data_Sciense/blob/main/Os_Insights_do_State_of_Data_Brasil_2023/notebooks/Os_Insights_do_State_of_Data_Brazil_2023.ipynb)
+
+<div align="center">
+<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*175N05QI4iSmdujiOaSL6g.png" width=700 />
+</div>
+
+**Situation:**  
+The "State of Data 2023" is an annual survey by Data Hackers, the largest data community in Brazil, in partnership with Bain & Company. Conducted between November and December 2023, over 5,200 professionals participated, providing insights into trends, challenges, salaries, and profiles of data professionals in Brazil.
+
+**Task:**  
+The primary goal was to analyze the "State of Data 2023" results to understand key trends, including the characteristics of professionals, salary distribution, and career satisfaction in the data field.
+
+**Action:**  
+- **Data Analysis:** We performed an exploratory analysis, covering:
+  - **Age:** The average age is 32, with most professionals in their mid-career (27-36).
+  - **Location:** 98% of respondents live in Brazil.
+  - **Job Satisfaction:** 72% are satisfied, but 28% express dissatisfaction, with growth opportunities and salary being common concerns.
+  - **Salary Range:** Most professionals earn between R$ 8,001 and R$ 12,000 per month, indicating a focus on experienced talent.
+
+**Result:**  
+The analysis shows that the Brazilian data market is growing, with most professionals satisfied in their roles. However, there are concerns about salary equality and career progression. The report provides valuable insights for companies aiming to attract and retain talent in the data field.
+
 
 * ### [**Analyzing Airbnb Data (Lisbon):**](https://github.com/fabioolivei/Fabio_Olivei_Data_Sciense/blob/main/Analyzing%20Airbnb%20Data%20(Lisbon)/notebooks/Analisando_os_Dados_do_Airbnb_(Lisboa).ipynb)
 
 <div align="center">
 
-<img src="https://camo.githubusercontent.com/c5fa04297b1d7ac37119d62a88af6d11080adb83f077c3e2a0f647f748ae0db3/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f3830302f312a4a56565f526e38686a6668535f644d613854723559512e706e67" />
+<img src="https://github.com/fabioolivei/Fabio_Olivei_Data_Sciense/blob/main/Analyzing%20Airbnb%20Data%20(Lisbon)/reports/figures/AIRBNB-1-FABIO-OLIVEI.png" width=700 />
 
 </div>
 
