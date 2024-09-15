@@ -291,7 +291,7 @@ The analysis shows that the Brazilian data market is growing, with most professi
 
 <div align="center">
 
-![](https://github.com/user-attachments/assets/5c0ee433-8b23-4fff-925d-efa5c9a4135f.mp4)
+https://github.com/user-attachments/assets/5c0ee433-8b23-4fff-925d-efa5c9a4135f.mp4
 
 </div>
 
