@@ -291,8 +291,7 @@ The analysis shows that the Brazilian data market is growing, with most professi
 
 <div align="center">
 
-![WhatsApp Video 2024-09-15 at 11 58 28](https://github.com/user-attachments/assets/cbd24ffe-42f3-4761-9388-34a56ef368bf)
-
+![](https://github.com/user-attachments/assets/5c0ee433-8b23-4fff-925d-efa5c9a4135f.mp4)
 
 </div>
 
