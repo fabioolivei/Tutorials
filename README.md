@@ -269,6 +269,8 @@ The analysis shows that the Brazilian data market is growing, with most professi
 ## **Power BI**  <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/2bf1c982fb24528eee1559a96a25eb534c175cfd/SVG/Power-BI.svg" />
 * ### [**E-commerce Sales Analysis**](https://github.com/fabioolivei/Power_BI/blob/main/README.md)
 
+* [Acesse o Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWMwNmExZDItNmM1YS00YzJiLWJkYTgtMWI4N2QwZGU2MjE5IiwidCI6ImIwM2UxZjQwLWJmZmQtNDVlOS1hNDk2LTg0NzUwODU2NmM5YiJ9)
+
 <div align="center">
 
 ![Descrição do GIF](https://github.com/fabioolivei/Power_BI/blob/main/E-commerce%20Sales%20Analysis/E-commerce%20Sales%20Analysis..gif)
@@ -288,6 +290,8 @@ The analysis shows that the Brazilian data market is growing, with most professi
 
 
 * ### [**Brazilian labor market**](https://github.com/fabioolivei/Power_BI/blob/main/README.md)
+
+* [Acesse o Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzE5MmI4YTktMTg5ZC00ZDVlLTk5ZmItZmE1NWJhZTA1ZTQ1IiwidCI6ImIwM2UxZjQwLWJmZmQtNDVlOS1hNDk2LTg0NzUwODU2NmM5YiJ9&pageName=bbb29af43e6835f69c9f)
 
 <div align="center">
 
