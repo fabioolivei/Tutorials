@@ -130,7 +130,25 @@ The dataset focuses on predicting health insurance costs based on factors such a
 **Result:** The A/B testing results indicated that Promotion 1 and Promotion 3 are statistically more effective than Promotion 2 in driving sales. This was supported by the p-values, which showed significant differences between the promotions. The cross-validation process, particularly the analysis of the lowest MSE, further validated the effectiveness of our analytical approach. By identifying the most effective marketing promotions, we can now recommend focusing resources on Promotion 1 and Promotion 3 for future marketing campaigns. This analysis not only answers the key question posed but also provides a foundation for optimizing marketing strategies to enhance sales performance.
 [Click here to see the full study]([https://shre.ink/rhPB](https://github.com/fabioolivei/Fabio_Olivei_Data_Sciense/blob/main/A-B_Testing_Strategies_in_Fast_Food_Advertising/notebooks/A_B_Testing_Strategies_in_Fast_Food_Advertising.ipynb))
 
+
 ## Exploratory Data Analysis (EDA) 
+
+### [**Generative AI in Brazil: Trends, Use Cases, and Opportunities:**](https://github.com/fabioolivei/Fabio_Olivei_Data_Sciense/blob/main/Generativa_AI_Brazil/notebooks/AI_Generativa_no_Brasil.ipynb)
+
+<div align="center">
+<img src="https://cdn-images-1.medium.com/max/1200/1*zoqWIqtb5WT-L3d1Mke9Xg.png" width=700 />
+</div>
+
+Situation: Generative AI is emerging globally across multiple sectors, but in Brazil, its adoption seems slower, raising concerns about the country falling behind.
+
+Task: Analyze the current state of generative AI adoption in Brazil, focusing on trends, barriers, and future opportunities, utilizing data from the State of Data Brazil 2023 report.
+
+Action: I performed an exploratory data analysis (EDA) on a dataset from Kaggle, focusing on how Brazilian companies view generative AI. Key insights include that most companies (30.7%) are still exploring generative AI, with only 12.3% making it a top priority. There is significant room for growth, as 23.9% plan to prioritize it within the next 2-4 years, though 28.8% of companies still don't consider it important.
+
+Result: The analysis showed that generative AI in Brazil is in its early stages, with major barriers being knowledge gaps and infrastructure. While large companies, such as banks and fintechs, are leading the adoption, smaller businesses face challenges justifying the high costs and complexity. The future outlook is optimistic, as reduced implementation costs and proven ROI could lead to wider adoption across different sectors.
+
+
+
 
 ### [**State of Data Brazil 2023:**](https://github.com/fabioolivei/Fabio_Olivei_Data_Sciense/blob/main/Os_Insights_do_State_of_Data_Brasil_2023/notebooks/Os_Insights_do_State_of_Data_Brazil_2023.ipynb)
 
