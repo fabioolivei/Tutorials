@@ -1,4 +1,4 @@
-# Portfolio
+# Projects
 
 <img src="https://github.com/fabioolivei/Fabio_Olivei_Data_Sciense/blob/main/FABIO-OLIVEI-%20Banner.png" alt="👋 Hi there! I'm Fabio Olivei" title="👋 Hi there! I'm Fabio Olivei"/>
 
