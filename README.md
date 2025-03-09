@@ -16,7 +16,7 @@
 # 💡 Projects:
 
  - 🔎[My Blog](https://fabioolivei.com/)
- - 💻[Explore my data science projects on GitHub.](https://github.com/fabioolivei/Portfolio/edit/main/README.md)
+ - 💻[Explore my tutorials about data science projects on GitHub.](https://github.com/fabioolivei/Portfolio/edit/main/README.md)
  - 📚[My articles: I regularly write articles on medium](https://medium.com/@fabioolivei)
 
   
